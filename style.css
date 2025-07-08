@@ -17,6 +17,9 @@ body {
     border: 2px solid rgb(226, 67, 43);
 }
 .display {
+    font-size: 2rem;
+  overflow-x: auto;
+  white-space: nowrap;
     display: flex;
     flex-wrap: wrap;
     flex-grow: 1;
